@@ -1,12 +1,12 @@
 # Trend Store With React
 
-[web site]()
+[web site](https://trend-store-mu.vercel.app/)
 
-# Techs that used
+# Techs That Used
 
-[reactJS](https://github.com/facebook/react)
-[viteJS](https://github.com/vitejs/vite)
-[tailwindcss](https://github.com/tailwindlabs/tailwindcss)
-[vercel.com](vercel.com)
+* [reactJS](https://github.com/facebook/react)
+* [viteJS](https://github.com/vitejs/vite)
+* [tailwindcss](https://github.com/tailwindlabs/tailwindcss)
+* [vercel.com](vercel.com)
 
 
