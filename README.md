@@ -1,6 +1,6 @@
 # Trend Store With React
 
-[web site](https://trend-store-mu.vercel.app/)
+* [web site](https://trend-store-mu.vercel.app/)
 
 # Techs That Used
 
