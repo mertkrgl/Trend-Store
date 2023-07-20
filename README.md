@@ -1,8 +1,8 @@
-#Trend Store With React
+# Trend Store With React
 
 [web site]()
 
-#Techs that used
+# Techs that used
 
 [reactJS](https://github.com/facebook/react)
 [viteJS](https://github.com/vitejs/vite)
