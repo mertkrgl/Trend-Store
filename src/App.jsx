@@ -4,6 +4,7 @@ import Hero from "./components/Hero/Hero"
 import Header from "./components/Layout/Header"
 import Products from "./components/Products/Products"
 import CartProvider from "./context/CartProvider"
+import React from "react"
 
 
 function App() {

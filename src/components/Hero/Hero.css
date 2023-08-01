@@ -45,4 +45,12 @@
   .hero-container a:hover {
     opacity: 0.8;
   }
+
+  #explore {
+    white-space: nowrap; /* Metni tek satırda tutmak için */
+    overflow: hidden; /* Fazla metni gizlemek için */
+    text-overflow: ellipsis; /* Fazla metni keserek "..." ile göstermek için */
+    max-width: 100%; /* Butonun içindeki metnin genişliğini sınırlamak için */
+  }
+  
   

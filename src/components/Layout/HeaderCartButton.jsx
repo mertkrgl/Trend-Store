@@ -2,6 +2,7 @@ import { useContext } from "react"
 import { CartContext } from "../../context/CartProvider"
 import CartIcon from "../Cart/CartIcon"
 import "./HeaderCartButton.css" 
+import React from "react"
 
 
 const HeaderCartButton = ({onShowCart}) => {
@@ -20,7 +21,7 @@ const HeaderCartButton = ({onShowCart}) => {
             <span>
                 Sepetim
             </span>
-            <span className="badge">
+            <span className="badge" id="cart-item-count">
                 {totalItemsInCart}
             </span>
         </button>

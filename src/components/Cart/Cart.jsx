@@ -4,6 +4,8 @@ import CartItem from "./CartItem"
 import Offcanvas from "../UI/Offcanvas"
 import { useContext } from "react"
 import { CartContext } from "../../context/CartProvider"
+import React from "react"
+
 
 const Cart = (props) => {
 

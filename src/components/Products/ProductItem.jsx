@@ -3,6 +3,8 @@ import Card from "../UI/Card"
 import Rating from "./Rating"
 import { useContext } from "react"
 import { CartContext } from "../../context/CartProvider"
+import React from "react"
+
 
 const ProductItem = ({product}) => {
     const {name, description , img , price} = product
